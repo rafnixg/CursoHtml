@@ -27,3 +27,15 @@ Que es HTML?
 </body>
 </html>
 ```
+
+(•ิ_•ิ)? SAY WHAT?
+
+Ok, te explico un poco...
+
+* La declaración ```DOCTYPE``` define el tipo de documento para ser HTML
+* El texto entre ```<html>``` y ```</html>``` describe un documento HTML
+* El texto entre ```<head>``` y ```</head>``` proporciona información sobre el documento
+* El texto entre ```<title>``` y ```</title>``` ofrece un título para el documento
+* El texto entre ```<body>``` y ```</body>``` describe el contenido de la página visible
+* El texto entre ```<h1>``` y ```</h1>``` describe un título
+* El texto entre ```<p>``` y ```</p>``` describe un párrafo
