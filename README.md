@@ -17,7 +17,7 @@ Que es HTML?
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Título de la pagina</title>
+    <title>Título de la página</title>
   </head>
 <body>
 
@@ -39,3 +39,10 @@ Ok, te explico un poco...
 * El texto entre ```<body>``` y ```</body>``` describe el contenido de la página visible
 * El texto entre ```<h1>``` y ```</h1>``` describe un título
 * El texto entre ```<p>``` y ```</p>``` describe un párrafo
+
+El uso de esta descripción, nuestro navegador web puede mostrar un documento con un encabezado y un párrafo.
+
+> NOTA: Cuando hablamos de documentos nos referimos a nuestra página web ( ͡ᵔ ͜ʖ ͡ᵔ )
+
+
+
