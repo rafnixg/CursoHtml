@@ -11,7 +11,7 @@ Que es HTML?
 
 # Índice 
 
-* [Estructura básica de un documento HTML](/Estructura básica de un documento HTML/)
+* [Estructura básica de un documento HTML](README.md#estructura-b%C3%A1sica-de-un-documento-html)
 
 ## Estructura básica de un documento HTML
 
