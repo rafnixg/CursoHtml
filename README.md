@@ -9,6 +9,9 @@ Que es HTML?
 
 [Más info](https://es.wikipedia.org/wiki/HTML)
 
+# Índice 
+
+* [Estructura básica de un documento HTML](/Estructura básica de un documento HTML/)
 
 ## Estructura básica de un documento HTML
 
