@@ -1,10 +1,13 @@
-# Curso HTML
-Material del curso HTML de Fundacite Carabobo
-----
-
 ## Índice 
 * [Que es HTML?](#que-es-html)
 * [Estructura básica de un documento HTML](#estructura-b%C3%A1sica-de-un-documento-html)
+* [Formato básico del texto](#formato-b%C3%A1sico-del-texto)
+  * Títulos
+  * Párrafos
+  * Abreviaturas
+  * Direcciones
+  * Blockquote
+  * Listas
 
 ## Que es HTML?
 
@@ -46,5 +49,8 @@ El uso de esta descripción, nuestro navegador web puede mostrar un documento co
 
 > NOTA: Cuando hablamos de documentos nos referimos a nuestra página web ( ͡ᵔ ͜ʖ ͡ᵔ )
 
+### Formato básico del texto
+
+#### Títulos:
 
 
