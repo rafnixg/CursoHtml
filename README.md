@@ -8,6 +8,10 @@
   * Direcciones
   * Blockquote
   * Listas
+ * Enlaces
+   * Anclas
+ * Imágenes
+ * Tablas
 
 ## Que es HTML?
 
