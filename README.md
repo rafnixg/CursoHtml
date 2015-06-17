@@ -2,7 +2,7 @@
 * [Que es HTML?](#que-es-html)
 * [Estructura básica de un documento HTML](#estructura-b%C3%A1sica-de-un-documento-html)
 * [Formato básico del texto](#formato-b%C3%A1sico-del-texto)
-  * Títulos
+  * [Títulos](#títulos)
   * Párrafos
   * Abreviaturas
   * Direcciones
@@ -57,4 +57,21 @@ El uso de esta descripción, nuestro navegador web puede mostrar un documento co
 
 #### Títulos:
 
+HTML acepta seis encabezados para definir la estructura jerárquica de los párrafos en un documento:
 
+```html
+<h1>Texto</h1>
+<h2>Texto</h2>
+<h3>Texto</h3>
+<h4>Texto</h4>
+<h5>Texto</h5>
+<h6>Texto</h6>
+```
+Y tendremos algo así:
+
+# Texto
+## Texto
+### Texto
+#### Texto
+##### Texto
+###### Texto
