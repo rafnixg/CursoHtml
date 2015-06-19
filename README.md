@@ -3,7 +3,7 @@
 * [Estructura básica de un documento HTML](#estructura-b%C3%A1sica-de-un-documento-html)
 * [Formato básico del texto](#formato-b%C3%A1sico-del-texto)
   * [Títulos](#títulos)
-  * Párrafos
+  * [Párrafos](#párrafos)
   * Abreviaturas
   * Direcciones
   * Blockquote
@@ -75,3 +75,17 @@ Y tendremos algo así:
 #### Texto
 ##### Texto
 ###### Texto
+
+#### Párrafos
+
+Para incluir un párrafo dentro de nuestro documento solamente debemos incluir las siguiente etiquetas ```<p>``` y ```</p>``` ejemplo:
+
+```html
+<p> Esto es un texto de prueba </p>
+```
+Tendremos algo así:
+
+Esto es un texto de prueba
+
+
+
